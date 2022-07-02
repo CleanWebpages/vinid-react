@@ -1,0 +1,122 @@
+.loginBox .form-control {
+	background-color: transparent;
+	border-bottom: 1px solid red;
+	border-top-width: 0;
+	border-right-width: 0;
+	border-left-width: 0;
+	border-radius: 0rem;
+	font-size: 1.2em;
+}
+
+.form-control {
+  font-size: .9rem;  
+}
+
+.searchbox .form-control {
+    font-size: 0.9rem;
+    border-right-width: 0;
+}
+
+.input-group-addon.primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+}
+.input-group-addon.success {
+    color: rgb(255, 255, 255);
+    background: #28a745 !important;
+    background-color: #28a745 !important;
+    border-color: rgb(76, 174, 76);
+}
+.input-group-addon.info {
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 179, 215);
+    border-color: rgb(38, 154, 188);
+}
+.input-group-addon.warning {
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 173, 78);
+    border-color: rgb(238, 162, 54);
+}
+.input-group-addon.danger {
+    color: rgb(255, 255, 255);
+    background-color: rgb(217, 83, 79);
+    border-color: rgb(212, 63, 58);
+}
+
+
+.input-group-append.primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+}
+.input-group-append.success {
+    color: rgb(255, 255, 255);
+    background: #28a745 !important;
+    background-color: #28a745 !important;
+    border-color: rgb(76, 174, 76);
+}
+.input-group-append.info {
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 179, 215);
+    border-color: rgb(38, 154, 188);
+}
+.input-group-append.warning {
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 173, 78);
+    border-color: rgb(238, 162, 54);
+}
+.input-group-append.danger {
+    color: rgb(255, 255, 255);
+    background-color: rgb(217, 83, 79);
+    border-color: rgb(212, 63, 58);
+}
+
+
+
+.input-group-text.primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+}
+.input-group-text.success {
+    color: rgb(255, 255, 255);
+    background: #28a745 !important;
+    background-color: #28a745 !important;
+    border-color: rgb(76, 174, 76);
+}
+.input-group-text.info {
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 179, 215);
+    border-color: rgb(38, 154, 188);
+}
+.input-group-text.warning {
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 173, 78);
+    border-color: rgb(238, 162, 54);
+}
+.input-group-text.danger {
+    color: rgb(255, 255, 255);
+    background-color: rgb(217, 83, 79);
+    border-color: rgb(212, 63, 58);
+}
+
+.input-group-text{
+  padding:.4rem .75rem;
+  border-radius:0;
+  font-size: .7rem;
+}
+
+.input-group .form-control{
+  padding:.2rem .75rem;
+  font-size: .9rem;
+}
+
+.small-font{
+  font-size: 80%;
+}
+
+.input-group {
+	background-color: #FFF;
+	border-radius: .25em;
+}

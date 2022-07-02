@@ -1,0 +1,136 @@
+body {
+	background: #000;
+    color:  #FFF;
+}
+
+body {
+
+    padding: 0px;
+
+}
+
+
+
+/* Set padding to keep content from hitting the edges */
+
+.body-content {
+
+    padding-left: 15px;
+
+    padding-right: 15px;
+
+}
+
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+
+   will truncate terms that are too long to fit in the left column 
+
+*/
+
+.dl-horizontal dt {
+
+    white-space: normal;
+
+}
+
+
+
+.tb {
+
+    width: 100%;
+
+    margin: 0;
+
+    padding: 5px 4px;
+
+    border: 1px solid #ccc;
+
+    box-sizing: border-box;
+
+}
+
+.error-message {
+
+    margin: 4px 0 0 0;
+
+    padding: 0;
+
+    color: red;
+
+}
+
+
+
+.main-area{
+
+    margin:0px auto;
+
+}
+
+.main-area-logo {
+
+    text-align:center;
+
+}
+
+.main-area-logo img{
+
+    width:100%;
+
+    max-width:520px;
+
+}
+
+.main-area-form {
+
+    font-weight: 500;
+
+}
+
+.main-form-label {
+    color: #ff6a00;
+}
+
+.main-form-field input[type='text'], .main-form-field input[type='password'] {
+
+    width:100%;
+
+    max-width:520px;
+
+    background-color: transparent;
+
+    color:#fff;
+
+    border: none;
+
+    border-bottom: solid 1px #ff6a00;
+
+}
+
+.main-form-btns input[type='submit'], .main-form-btns a {
+
+    display:inline-block;
+
+    margin:0px 15px 15px 0px;
+
+    padding:2px 40px;
+
+    background-color:#4B75C2;
+
+    color:#fff;
+
+    border:none;
+
+    border-radius:16pt;
+
+    font-size: 16pt;
+
+    font-weight: 500;
+
+}
+
+.searchbox{
+    padding-top:  150px;
+}

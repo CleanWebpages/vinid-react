@@ -1,0 +1,373 @@
+body {
+
+    background-color: #519bc4;
+
+    font-size: 12px;
+
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+
+    margin: 0px;
+
+    padding: 0px;
+
+    color: #696969;
+
+}
+
+
+
+a:link {
+
+    color: #034af3;
+
+    text-decoration: underline;
+
+}
+
+
+
+a:visited {
+
+    color: #505abc;
+
+}
+
+
+
+a:hover {
+
+    color: #1d60ff;
+
+    text-decoration: none;
+
+}
+
+
+
+a:active {
+
+    color: #12eb87;
+
+}
+
+
+
+ul {
+
+    margin: 0px;
+
+    padding: 0px;
+
+    list-style-type: none;
+
+}
+
+
+
+/* HEADINGS   
+
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-size: 1.5em;
+
+    color: #000;
+
+}
+
+
+
+h1 {
+
+    font-size: 2em;
+
+    padding-bottom: 0;
+
+    margin-bottom: 0;
+
+}
+
+
+
+h2 {
+
+    padding: 0 0 10px 0;
+
+}
+
+
+
+h3 {
+
+    font-size: 1.2em;
+
+}
+
+
+
+h4 {
+
+    font-size: 1.1em;
+
+}
+
+
+
+h5, h6 {
+
+    font-size: 1em;
+
+}
+
+
+
+/* FORM LAYOUT ELEMENTS   
+
+----------------------------------------------------------*/
+
+fieldset {
+
+    border: 1px solid #ddd;
+
+    padding: 0 1.4em 1.4em 1.4em;
+
+    margin: 0 0 1.5em 0;
+
+}
+
+
+
+legend {
+
+    font-size: 1.2em;
+
+    font-weight: bold;
+
+}
+
+
+
+textarea {
+
+    min-height: 75px;
+
+}
+
+
+
+form input[type="text"], form input[type="password"] {
+
+    border: 1px solid #ccc;
+
+    padding: 2px;
+
+    font-size: 1.2em;
+
+    color: #444;
+
+    width: 200px;
+
+}
+
+
+
+select {
+
+    border: 1px solid #ccc;
+
+    padding: 2px;
+
+    font-size: 1.2em;
+
+    color: #444;
+
+}
+
+
+
+/*input[type="submit"] {
+
+    font-size: 1.2em;
+
+    padding: 5px;
+
+}*/
+
+
+
+
+
+/* TABLE
+
+----------------------------------------------------------*/
+
+table.tbl-form {
+
+    border: solid 1px #e8eef4;
+
+    border-collapse: collapse;
+
+}
+
+
+
+table.tbl-form td {
+
+    padding: 10px;
+
+    border: solid 1px #e8eef4;
+
+}
+
+
+
+table.tbl-form th {
+
+    padding: 6px 5px;
+
+    text-align: left;
+
+    background-color: #e8eef4;
+
+    border: solid 1px #e8eef4;
+
+}
+
+
+
+
+
+/* custom */
+
+.top-bar a {
+
+    color: #0078C0;
+
+    text-decoration: none;
+
+}
+
+
+
+.top-bar a:hover {
+
+    color: #8CC63E;
+
+}
+
+
+
+#fm {
+
+    margin: 0px;
+
+    padding: 0px;
+
+}
+
+
+
+.ftitle {
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    color: #666;
+
+    padding: 5px 0;
+
+    margin-bottom: 10px;
+
+    border-bottom: 1px solid #ccc;
+
+}
+
+
+
+.fitem {
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.fitem label {
+
+    display: inline-block;
+
+    width: 80px;
+
+}
+
+
+
+#dlg .title, #dlgAction .title {
+
+    font-weight: bold;
+
+}
+
+
+
+#dlg .title:nth-child(n+2), #dlgAction .title:nth-child(n+2) {
+
+    margin-top: 15px;
+
+}
+
+
+
+.annotate {
+
+    color: red;
+
+    font-family: monospace;
+
+    font-size: 16px;
+
+}
+
+ .panel-body{
+
+            background-color:#000;
+
+        }
+
+        .panel-header{
+
+
+
+        }
+
+        .datagrid-header, .datagrid-td-rownumber {
+
+        }
+
+        .datagrid-toolbar, .datagrid-pager{
+
+            background: #111;
+
+        }
+
+        .datagrid-row-alt {
+
+            background: #222;
+
+        }
+
+        .datagrid-row-over,
+
+        .datagrid-header td.datagrid-header-over {
+
+            background: #333;
+
+        }
+
+        legend {
+
+            width: auto;
+
+        }
