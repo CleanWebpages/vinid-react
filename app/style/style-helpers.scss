@@ -497,3 +497,7 @@ background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, F
   box-shadow: 0 1px 1px 0 #C7C7C7 inset;
   background: none repeat scroll 0 0 #E9E9E9;
 }
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #FFF;
+    margin: 1em 0; padding: 0; }
